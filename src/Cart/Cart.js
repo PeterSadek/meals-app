@@ -1,4 +1,4 @@
-import Modal from "../UI/Modal";
+import Modal from "../components/UI/Modal";
 import classes from "./Cart.module.css";
 
 const Cart = (props) => {
